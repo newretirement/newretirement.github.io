@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'NewRetirement Platform',
   tagline: 'AI-based Financial Planning and Management Platform',
-  url: 'https://newretirement.github.io',
+  url: 'https://developers.newretirement.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
