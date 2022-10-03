@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevportal=self.webpackChunkdevportal||[]).push([[180],{7679:e=>{e.exports=JSON.parse('{"title":"Financial Planning Engine (FPE)","slug":"/category/fpe","permalink":"/docs/category/fpe","navigation":{"previous":{"title":"APIs","permalink":"/docs/category/apis"},"next":{"title":"Overview","permalink":"/docs/apis/fpe/overview"}}}')}}]);
