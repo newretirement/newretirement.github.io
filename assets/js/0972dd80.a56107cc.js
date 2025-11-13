@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdevportal=self.webpackChunkdevportal||[]).push([[807],{7469:t=>{t.exports=JSON.parse('{"title":"Widgets","slug":"/category/widgets","permalink":"/docs/category/widgets","navigation":{"previous":{"title":"Tenant Data API","permalink":"/docs/tenant_data_api"},"next":{"title":"Widget catalog","permalink":"/docs/category/widget-catalog"}}}')}}]);
